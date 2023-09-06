@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#  Teaching Page 
+Adam Oberman https://www.adamoberman.net/, 
+McGill University, Department of Mathematics and Statistics
 
-Organize your courses by years, topics, or universities, however you like!
+### Current Course
+- [Fall 2023, Math 462](https://adam-oberman.github.io/2023_Math462/)
+### Recent Courses
+- [Winter 2022, Math/Comp 562](https://adam-oberman.github.io/Math562/)
+- Fall 2022, Math 462 
+- Winter 2022, Math 562 / Comp 562
+- Fall 2021, Math 462 
