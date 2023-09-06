@@ -30,6 +30,7 @@ jobs:
       run: |
         pip3 install --upgrade jupyter
         npm install -g mermaid.cli
+        bundle install
         export JEKYLL_ENV=production
         bundle exec jekyll build
     - name: Deploy 🚀
