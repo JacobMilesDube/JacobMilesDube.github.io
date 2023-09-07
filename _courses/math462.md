@@ -1,3 +1,12 @@
+---
+layout: page
+title: math 462
+description: Honours Mathematics for Machine Learning
+img:
+importance: 1
+category:
+---
+
 ## MATH 462, Fall 2022
 ### Honours Mathematics for Machine Learning,
 
