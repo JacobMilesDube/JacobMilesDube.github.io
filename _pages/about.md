@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Professor at McGill University in the Department of Mathematics and Statistics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research revolves around the application of advanced mathematical techniques to the field of deep learning. My primary areas of expertise include generative modeling, stochastic optimization methods, fairness/bias removal in computer vision, and generalization in reinforcement learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining McGill in 2012, I held a tenured faculty position at Simon Fraser University and completed a postdoctoral fellowship at the University of Texas, Austin. I obtained my undergraduate education at the University of Toronto and pursued graduate studies at the University of Chicago. Throughout my career, I have also held visiting positions at UCLA and INRIA, Paris.
+
+My earlier research encompassed the fields of Partial Differential Equations and scientific computing, where I made significant contributions to areas including numerical Optimal Transportation, geometric PDEs, and stochastic control problems.
+
+I teach two comprehensive theory courses on machine learning, covering topics such as statistical learning theory and kernel theory.
+
+For prospective graduate students interested in working with me, it is recommended to apply to Mila, as well as to the mathematics department at McGill. Alternatively, applicants may consider cosupervision opportunities with advisors from the Computer Science program at McGill or the Université de Montréal.
