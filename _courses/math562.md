@@ -1,3 +1,12 @@
+---
+layout: page
+title: math 562
+description: Theory of Machine Learning, Winter 2023
+img:
+importance: 2
+category:
+---
+
 # MATH/COMP 562: Theory of Machine Learning, Winter 2023
 ### Honours Mathematics for Machine Learning
 
